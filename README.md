@@ -1,4 +1,5 @@
-Project Name: Sentiment Analysis of Product Reviews
+Project Name: TruReview
+
 Overview
 This project performs sentiment analysis on product reviews using Google's Generative AI model. It processes both historical and recent reviews, visualizes sentiment data using pie charts, and provides detailed insights into positive and negative factors affecting the product.
 
