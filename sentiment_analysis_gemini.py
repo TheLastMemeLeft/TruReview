@@ -1,4 +1,4 @@
-key = "AIzaSyD9ikSTc6Y9Xzjy6xLeqC9boEdy5DlkqQE"  # PUT YOUR API KEY HERE
+key = ""  # PUT YOUR API KEY HERE
 
 
 
