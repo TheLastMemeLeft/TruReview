@@ -1,5 +1,9 @@
 Project Name: TruReview
 
+
+Instructions: Clone the repository, follow the prerequisite instructions, run amzn scraper.py, run sentiment analysis.py (dont forget to add your API key)
+
+
 Overview:
 
 This project performs sentiment analysis on product reviews using Google's Generative AI model. It processes both historical and recent reviews, visualizes sentiment data using pie charts, and provides detailed insights into positive and negative factors affecting the product.
